@@ -6,7 +6,7 @@ Wayne Shoaf at USC for providing original metadata for The Robin Dunitz Collecit
 Mark Matney for providing original metadata for the Nancy Tovar Collection.
 Stacy Williams at USC for providing access and answers to original Dunitz archival materials.
 Miriam Posner for providing guidance and inspiration, especially through her DH courses at UCLA.
-Yoh Kawano and Albert Kochaphum for countless hours of support and collaboration through UCLA's Institute for Digital Research and Education.
+Yoh Kawano and Albert Kochaphum for support and collaboration through UCLA's Institute for Digital Research and Education.
 
 To all the muralists past, present, and future. 
 
